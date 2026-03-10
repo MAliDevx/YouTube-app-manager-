@@ -1,0 +1,5 @@
+{
+  "name": "CineAdmin - Movie Streaming Admin Panel",
+  "description": "A comprehensive administrative dashboard for managing movies, users, subscriptions, and analytics for a movie streaming platform.",
+  "requestFramePermissions": []
+}
