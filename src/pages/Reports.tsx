@@ -108,7 +108,7 @@ export const Reports: React.FC = () => {
           </CardContent>
         </Card>
 
-        <Card>
+        {/* <Card>
           <CardHeader>
             <CardTitle>Most Watched Movies</CardTitle>
           </CardHeader>
@@ -150,7 +150,7 @@ export const Reports: React.FC = () => {
               </PieChart>
             </ResponsiveContainer>
           </CardContent>
-        </Card>
+        </Card> */}
       </div>
     </div>
   );
